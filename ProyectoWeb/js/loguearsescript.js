@@ -1,9 +1,8 @@
 /* 
-JavaScript / XML
-web o pagina: ejercicios de XML y JavaScript
-autor: Prof. Carlos Boni
+JavaScript / XMl
+autor: Sergio Martinez
 fecha: 12 mayo 2021
-resumen: lectura y carga en array bidimensional de un XML
+
 
 sintesis:
 la lógica se basa en el uso de tres variables de tipo sessionStorage
@@ -73,7 +72,7 @@ function validarXML() {
   };
   xhr.open(
     'GET',
-    'https://carlosboniniklison.github.io/publico/ejercicios/xml/registrados.xml' /* IMPORTANTE esto lo cambias por tu ruta y ya está*/,
+    'https://sergiomartinezfelix.github.io/publico/ProyectoWeb/registrados.xml'
     true
   );
   xhr.send();
