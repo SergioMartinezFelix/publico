@@ -147,7 +147,7 @@ li.dropdown {
 }
 
 .container .card {
-  width: 550px; /* Esto es el ancho de la tarjeta*/
+  width: 20%; /* Esto es el ancho de la tarjeta*/
   height: 480px;
   border-radius: 8px;
   box-shadow: 0 2px 2px rgba(255, 255, 255, 0.2);
